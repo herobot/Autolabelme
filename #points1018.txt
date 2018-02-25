@@ -1,0 +1,1 @@
+[PyQt4.QtCore.QPointF(1506.0, 740.0), PyQt4.QtCore.QPointF(1500.0, 761.0), PyQt4.QtCore.QPointF(537.5833333333333, 554.25), PyQt4.QtCore.QPointF(1500.0, 804.0), PyQt4.QtCore.QPointF(1520.0, 776.0)]
